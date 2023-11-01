@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Farwiza
 - 👀 I’m interested in Java, Golang, C#, C++, pyhton, Javascript
-- 🌱 I’m currently learning Javascipt
-- 💞️ I’m looking to collaborate on Dont know
-- 📫 How to reach me My email is alvihaiikal@gmail.com
+- 🌱 I’m currently learning Web Development and Game Developmet
+- 💞️ I’m looking to collaborate with anyone else
+- 📫 How to reach me here's My email is alvihaiikal@gmail.com
 
 
 <!---
